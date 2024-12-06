@@ -1,0 +1,21 @@
+.container {
+    background-color: white;
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 8px;
+    overflow: hidden;
+    
+}
+.img{
+    max-width:  600px 400px;
+}
+
+.postTitle{
+    font-size: 1.25rem;
+    margin: 10px;
+}
+
+.postDescription{
+    font-size: 0.9rem;
+    margin: 10px;
+}
